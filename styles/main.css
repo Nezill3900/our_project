@@ -11,3 +11,13 @@ body{
 
 }
 
+.game-card{
+    display:  flex;
+    padding: 20px;
+
+}
+
+.p-card{
+    display: inline;
+    gap: 20px;
+}
