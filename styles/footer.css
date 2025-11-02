@@ -1,0 +1,24 @@
+.footer-item a{
+    display: block;
+    color: #525151;
+    font-size: 1.05em;
+    line-height: 200%;
+    font-weight: 500;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+    gap: 50px;
+    background-color: #323030;
+
+}
+
+.footer-item h5{
+    width: 350px;
+    color: #595959;
+    font-size: 1.15em;
+    font-weight: 700;
+}

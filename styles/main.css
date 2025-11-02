@@ -8,16 +8,28 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
+
+}   
+
+.tovar{
+    display: flex;
+}
+
+.title-tovaru{
+    font-size: 30px;
+}
+
+.big-foto-tovaru{
+    width: 500px;
+    height: 500px;
 
 }
 
-.game-card{
-    display:  flex;
-    padding: 20px;
-
+.button-tovaru{
+    height: 50px;
+    width: 50px;
 }
 
-.p-card{
-    display: inline;
-    gap: 20px;
-}
+
+
